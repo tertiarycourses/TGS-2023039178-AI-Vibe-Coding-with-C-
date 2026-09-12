@@ -1337,8 +1337,8 @@ Slides 145–146. using disposes a resource at the end of scope, including excep
 // Deterministic disposal:
 using var writer = new StreamWriter("stock.txt");
 writer.WriteLine("SKU-001,10");
-//
-Type() is a nondeterministic finalizer.
+// Finalizer declaration: ~Type()
+// Execution timing is nondeterministic.
 ```
 
 Failure to diagnose: Waiting for a finalizer may leave a file handle open for an unknown time.
