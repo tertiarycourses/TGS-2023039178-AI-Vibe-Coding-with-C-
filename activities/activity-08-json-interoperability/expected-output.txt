@@ -1,0 +1,3 @@
+Imported SKU-001; stock 10
+Round-trip equal: True
+Export: output/product.json

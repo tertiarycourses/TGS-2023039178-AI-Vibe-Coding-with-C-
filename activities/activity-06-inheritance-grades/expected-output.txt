@@ -1,0 +1,2 @@
+Mean 85.00; band B
+Mean 85.00; band A

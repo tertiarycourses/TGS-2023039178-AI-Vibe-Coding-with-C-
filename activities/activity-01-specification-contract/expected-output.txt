@@ -1,0 +1,2 @@
+Valid catalogue record: True
+Invalid price -> price

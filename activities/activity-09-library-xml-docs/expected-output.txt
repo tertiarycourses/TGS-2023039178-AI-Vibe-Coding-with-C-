@@ -1,0 +1,3 @@
+Search matches: 1
+Fine: 1.50
+Report: output/design-report.txt

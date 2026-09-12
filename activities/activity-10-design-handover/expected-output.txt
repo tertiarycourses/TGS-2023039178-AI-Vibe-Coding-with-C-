@@ -1,0 +1,2 @@
+Stock after remove/add: 9
+Handover: output/handover.txt

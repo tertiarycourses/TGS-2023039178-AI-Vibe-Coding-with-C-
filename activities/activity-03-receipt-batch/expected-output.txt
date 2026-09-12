@@ -1,0 +1,4 @@
+Receipt total: 35.82
+Mean grade: 80.00
+Grade band: B
+Parse quantity 'two': False
